@@ -1,7 +1,8 @@
-# Google ML Crash Course - Reminder Notebooks
+# Google ML Crash Course
 
-This repository contains reminder notebooks for NumPy and Pandas, based on the Google Machine Learning Crash Course exercises. These notebooks serve as quick references to refresh your knowledge of these essential libraries for data science and machine learning.
+This repository contains reminder notebooks for NumPy and Pandas, based on the Google Machine Learning Crash Course exercises. These notes serve as quick references to refresh your knowledge of these essential libraries for data science and machine learning.
 
+https://developers.google.com/machine-learning/crash-course
 
 
 ## Setup venv
